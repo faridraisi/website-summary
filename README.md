@@ -11,7 +11,7 @@ Two notebooks are provided:
 **Requirements:** Python 3.11+, [uv](https://docs.astral.sh/uv/), Chrome (for Selenium notebook)
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/faridraisi/website-summary.git
 cd website-summary
 uv sync
 cp .env.example .env
